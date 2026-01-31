@@ -62,13 +62,6 @@ Prosperity-Prognosticator/
 - User-friendly web interface with dynamic feedback
 - REST API endpoint at `/api/predict` for integration with external tools
 
-## Team Contributions
-
-- **Rajdeep**: Team lead, model building,frontend development(`home.html`), backend development (`app.py`), final code review
-- **Biswadeep**: Model evaluation, testing, result visualization (`results.html`)
-- **Bhagat**: Data collection, preparation, univariate and multivariate analysis, `adaptivity.html`
-- **Rajat**: Data analysis and visualization, frontend development (`index.html`), debugging
-
 ## License
 
 This project is licensed under the MIT License.
